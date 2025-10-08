@@ -23,4 +23,4 @@ This section is for relevant certifications I have obtained either before or whi
 </div>
 
 ## Projects
-- Placeholder
+- <a href="https://github.com/j-mcnelis/New-Home-Lab">Creating A Home Lab Environment</a>
