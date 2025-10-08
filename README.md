@@ -5,7 +5,7 @@ I am a recent graduate with a dedication to learning new skills and solving new 
 
 ## Objective
 
-I've had a passion for computers and learning about cybersecurity since before I even graduated high school. Throughout the following years I continued to develop said knowledge and obtained a BS in Cybersecurity and Networks and an MS in Cybersecurity. I'm eager to learn more and continue honing my abilities in order to land a job in this field. This portfolio will showcase the skills, tools, and projects I will be undertaking.
+I've had a passion for computers and learning about cybersecurity since before I even graduated high school. Throughout the following years I continued to develop said knowledge and obtained a BS in Cybersecurity and Networks and an MS in Cybersecurity. I'm eager to learn more and continue honing my abilities in order to land a job in this field, ideally in the realm of cybersecurity engineering. This portfolio will showcase the skills, tools, and projects I will be undertaking.
 
 ## Skills
 
