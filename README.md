@@ -11,10 +11,29 @@ I've had a passion for computers and learning about cybersecurity since before I
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Placeholder | Placeholder |
+| Virtualization and lab environment setup | <a href="https://github.com/j-mcnelis/New-Home-Lab">Home Lab</a> |
+| Operating system installation and configuration | <a href="https://github.com/j-mcnelis/New-Home-Lab">Home Lab</a> |
+| Networking configuration and troubleshooting | <a href="https://github.com/j-mcnelis/New-Home-Lab">Home Lab</a> |
 
-## Tools
-I've used a large list of tools over the years but will focus on the tools used in the projects shown on this page. Currently the list is empty but following the first project, it will be updated.
+## Tools/Technologies
+I've used a large list of tools over the years but will focus on the tools used in the projects shown on this page.
+
+### Operating Systems
+<div>
+    <img src="https://img.shields.io/badge/-Windows%2011%20Pro-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
+</div>
+
+### Virtualization
+<div>
+    <img src="https://img.shields.io/badge/-Oracle%20VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+</div>
+
+### Other Tools
+<div>
+    <img src="https://img.shields.io/badge/-Windows%20Media%20Creation%20Tool-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-7--Zip-000000?&style=for-the-badge&logo=7-Zip&logoColor=white" />
+</div>
 
 ## Certifications
 This section is for relevant certifications I have obtained either before or while creating these projects.
@@ -24,3 +43,4 @@ This section is for relevant certifications I have obtained either before or whi
 
 ## Projects
 - <a href="https://github.com/j-mcnelis/New-Home-Lab">Creating A Home Lab Environment</a>
+- <a href="https://github.com/j-mcnelis/Experimenting-with-Splunk-and-Sysmon">Experimenting with Splunk & Sysmon</a>
