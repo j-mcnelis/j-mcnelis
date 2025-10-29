@@ -12,7 +12,7 @@ I've had a passion for computers and learning about cybersecurity since before I
 These are the projects I have currently completed since creating this portfolio. Each one has a README.md with an objective, post-completion summary, in-depth skills and tools/technologies sections, and full step-by-step processes for how the projects were completed.
 - <a href="https://github.com/j-mcnelis/New-Home-Lab">Creating A Home Lab Environment</a>
 - <a href="https://github.com/j-mcnelis/Experimenting-with-Splunk-and-Sysmon">Experimenting with Splunk & Sysmon</a>
-- <a href="https://github.com/j-mcnelis/Creating-a-Password-Manager">Creating a Password Manager (Current Project)</a>
+- <a href="https://github.com/j-mcnelis/Secure-Credential-Management-System">Secure Credential Management System (Current Project)</a>
 
 ## Skills
 
